@@ -1,3 +1,3 @@
 # captnSud0
 
-`Cybersecurity Strategist that still love shell work / CTF Afficionado`
+`Cybersecurity Strategist; still loving shells and code / CTF Afficionado`
