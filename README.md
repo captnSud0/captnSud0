@@ -1,2 +1,2 @@
 # captnSud0
-`Cybersecurity Strategist / CTFs in free time`
+`Cybersecurity Risk Management / CTFs in free time`
