@@ -1,2 +1,2 @@
 # captnSud0
-`Infomration Security Risk Management / CTFs in free time`
+`Information Security Risk Management / CTFs in free time`
